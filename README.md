@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bassel gamal</h1>
-<h3 align="center">MERN Stack</h3>
+<h3 align="center">Backend with nodejs</h3>
 
 <p align="left">
   <img
