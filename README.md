@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bassel gamal</h1>
 <h3 align="center">MERN Stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devbassel&label=Profile%20views&color=0e75b6&style=flat" alt="devbassel" /> </p>
+
 
 - 🌱 I’m currently learning **nestjs,postgresql and jest**
 
