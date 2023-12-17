@@ -22,6 +22,8 @@
 
 <img align="left" src="https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux"/>
 
+<img align="left" src="https://img.shields.io/badge/mui-%23404d59.svg?style=for-the-badge&logo=mui&logoColor=%2361DAFB"/>
+
 <img align="left" src="https://img.shields.io/badge/tailwind%20css-0f172a?style=for-the-badge&logo=tailwindcss"/>
 
 <br/>
