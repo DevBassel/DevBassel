@@ -11,13 +11,18 @@
 <br/>
 
 # 📚 Frameworks
+## 💻 Backend 
+
+<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 <img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 
 <img align="left" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 
 <img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
+<br/>
 
+## 🎨 Frontend
 <img align="left" src="https://img.shields.io/badge/react.js-%23404d59?style=for-the-badge&logo=react&logoColor=white"/>
 
 <img align="left" src="https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux"/>
@@ -33,7 +38,6 @@
 
 # 💻 Programming Languages
 
-<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 
@@ -42,12 +46,15 @@
 <br/>
 <br/>
 
-# 💾 Databases and ORM, ODM
+# 💾 Databases
 
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
+<br/>
+
+### ORM && ODM
 <img align="left" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
 
 <img align="left" src="https://img.shields.io/badge/TypeOrm-grey?style=for-the-badge&logo=typeorm&logoColor=white"/>
