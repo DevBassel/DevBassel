@@ -21,8 +21,10 @@
 
 <img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
 <br/>
+<br/>
 
 ## 🎨 Frontend
+
 <img align="left" src="https://img.shields.io/badge/react.js-%23404d59?style=for-the-badge&logo=react&logoColor=white"/>
 
 <img align="left" src="https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux"/>
