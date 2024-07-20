@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-## 🎨 Frontend
+##  Good Knowledge In: 
 
 <img align="left" src="https://img.shields.io/badge/react.js-%23404d59?style=for-the-badge&logo=react&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
