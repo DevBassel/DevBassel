@@ -7,84 +7,37 @@
  </h3>
 
 <br/>
-<br/>
-<br/>
+
 
 # 📚 Frameworks
 ## 💻 Backend 
-
-<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-
-<img align="left" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-
-<img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,firebase,jest,nginx,redis,graphql,rabbitmq&theme=dark)](https://skillicons.dev)
+[![My Skills](https://camo.githubusercontent.com/e3aef779877ecfad97fc1e213d3c449a685e6766c0c7fdca210802d4a1f59302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f636b65742e696f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d736f636b65742e696f266261646765436f6c6f723d303130313031)]()
 <br/>
 
-##  Good Knowledge In: 
-
-<img align="left" src="https://img.shields.io/badge/react.js-%23404d59?style=for-the-badge&logo=react&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-
-<img align="left" src="https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux"/>
-
-<img align="left" src="https://img.shields.io/badge/mui-%23404d59.svg?style=for-the-badge&logo=mui&logoColor=%2361DAFB"/>
-
-<img align="left" src="https://img.shields.io/badge/tailwind%20css-0f172a?style=for-the-badge&logo=tailwindcss"/>
-
-<br/>
-<br/>
-<br/>
-<br/>
+# Front-end knowledge 
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,mui,tailwind,html,vite,css&theme=dark)](https://skillicons.dev)
 
 # 💻 Programming Languages
 
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<br/>
-<br/>
-<br/>
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript&theme=dark)](https://skillicons.dev)
 
 # 💾 Databases
 
-<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
 
 ### ORM && ODM
-<img align="left" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-
-<img align="left" src="https://img.shields.io/badge/TypeOrm-grey?style=for-the-badge&logo=typeorm&logoColor=white"/>
-
-<img align="left" src="https://img.shields.io/badge/mongoose-red?style=for-the-badge&logo=mongoose&logoColor=white"/>
-
-<br/>
-<br/>
-<br/>
-<br/>
+ [![My Skills](https://skillicons.dev/icons?i=prisma,sequelize&theme=dark)](https://skillicons.dev)
+ [![My Skills](https://img.shields.io/badge/TypeOrm-grey?style=for-the-badge&logo=typeorm&logoColor=white)]()
+ [![My Skills](https://img.shields.io/badge/mongoose-red?style=for-the-badge&logo=mongoose&logoColor=white)]()
 
 # 🛠 Tools
 
-<img align="left" src="https://img.shields.io/badge/git-0f172a?style=for-the-badge&logo=git"/>
-<img align="left" src="https://img.shields.io/badge/npm-gray?style=for-the-badge&logo=npm"/>
-<img align="left" src="https://img.shields.io/badge/postman-0f172a?style=for-the-badge&logo=postman"/>
-
-<br/>
-<br/>
-<br/>
-<br/>
+ [![My Skills](https://skillicons.dev/icons?i=npm,pnpm,postman,docker,git,github,vscode,webpack&theme=dark)](https://skillicons.dev)
 
 # 📞 Contact Me
 
-<a href="https://www.linkedin.com/in/devbasselgamal/">
-<img align="left" src="https://img.shields.io/badge/linkedin-0f172a?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:dev.bassel.js@gmail.com">
-<img align="left" src="https://img.shields.io/badge/email-gray?style=for-the-badge&logo=gmail"/>
-</a>
+ [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/devbasselgamal/)
+ [![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:dev.bassel.js@gmail.com)
+
+
