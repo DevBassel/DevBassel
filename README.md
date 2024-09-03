@@ -11,7 +11,7 @@
 
 # 📚 Frameworks
 ## 💻 Backend 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,firebase,jest,nginx,redis,graphql,rabbitmq&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,firebase,jest,nginx,redis,rabbitmq&theme=dark)](https://skillicons.dev)
 [![My Skills](https://camo.githubusercontent.com/e3aef779877ecfad97fc1e213d3c449a685e6766c0c7fdca210802d4a1f59302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f636b65742e696f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d736f636b65742e696f266261646765436f6c6f723d303130313031)]()
 <br/>
 
