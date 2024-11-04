@@ -8,6 +8,10 @@
 
 <br/>
 
+[![Bassel profile views](https://u8views.com/api/v1/github/profiles/86688370/views/day-week-month-total-count.svg)](https://u8views.com/github/DevBassel)
+<br/>
+
+
 
 # 📚 Frameworks
 ## 💻 Backend 
