@@ -3,7 +3,7 @@
  </h1>
  <h3>
  📄 Know about my experiences 
- <a href="https://drive.google.com/file/d/19RjycYeZDgQsQ-iI86niQ74n7gysEJTv/view?usp=drive_link" rel="nofollow">My CV</a>
+ <a href="https://drive.google.com/file/d/1XE2AHHu0n5REpGdcdMnyEeQtCVdTve7H/view?usp=drive_link" rel="nofollow">My CV</a>
  </h3>
 
 <br/>
